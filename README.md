@@ -8,6 +8,8 @@ For those who are new to `R`, please refer to IFoA's [*Getting Started With R*](
 
 ## Content
 
-- Chapter 15: Loss Distributions
+- [Chapter 15: Loss Distributions](https://github.com/Xiaoran-Gao/loss-model-and-simulation/blob/master/chap15-loss-distributions.Rmd)
 
 ## References
+
+- Institute and Faculty of Actuaries (2019). *CS2 (Risk Modelling and Survival Analysis) Combined Materials Pack*.
